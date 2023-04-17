@@ -1,1 +1,3 @@
-# 3D-Graf-hf-autoverseny
+# Car simulation
+
+Using Kotlin and WebGL
